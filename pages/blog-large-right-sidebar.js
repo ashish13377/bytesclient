@@ -1,4 +1,4 @@
-import Header from "../layout/header-3";
+import Header from "../layout/header-2";
 import Footer from './../layout/footer';
 import Link from 'next/link';
 
