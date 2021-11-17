@@ -1,5 +1,5 @@
 import Header from "../layout/header-2";
-import Footer from './../layout/footer';
+import Footer from './../layout/footer-2';
 import Link from 'next/link';
 
 
