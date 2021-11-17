@@ -1,6 +1,6 @@
 import Link from "next/link";
-import Footer3 from "../layout/footer-3";
-import Header3 from "../layout/header-3";
+import Footer3 from "../layout/footer-2";
+import Header3 from "../layout/header-2";
 
 
 function BlogLargeLeftSidebar() {
