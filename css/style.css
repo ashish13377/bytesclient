@@ -1,7 +1,6 @@
 /*
-    Name: Samar 
-    Author: DexignZone
-    Portfolio : https://themeforest.net/user/dexignzone/portfolio
+    Name: bytesClient 
+
    
 
     Table of Content: 
@@ -15069,9 +15068,10 @@ icon-bx-wraper style-4:hover .icon-cell i,
   height: 85px;
   position: relative;
   z-index: 9; }
-  @media only screen and (max-width: 1199px) {
+  @media only screen and (max-width: 1820px) {
     .logo-header {
-      width: 130px; } }
+      padding-top: 0.5%;
+      width: 200px; } }
   @media only screen and (max-width: 575px) {
     .logo-header {
       width: 120px;
